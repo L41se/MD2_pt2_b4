@@ -38,6 +38,4 @@ public class stuff {
         }
         return "This equation has no roots";
     }
-
-
 }
